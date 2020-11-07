@@ -1,4 +1,4 @@
-return{
+{
     LeftShift = "0xAO";
     Zero = "0x30";
     One = "0x31";
